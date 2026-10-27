@@ -1,6 +1,6 @@
 KHOJ v2 — NETLIFY-READY WEBSITE
 
-This is a static, mobile-responsive website. No start-khoj.bat, server, build step, or backend is needed for Netlify.
+This is a static, mobile-responsive website.
 
 DEPLOY TO NETLIFY
 1. Extract this ZIP.
